@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TommyGhost
+- 👋 Hi, I’m Tomisin
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
