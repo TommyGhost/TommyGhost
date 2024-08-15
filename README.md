@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tomisin
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Flutter and React-Native
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on mobile development projects 
 - 📫 How to reach me: hanimashauntomisin@gmail.com
 
 <!---
