@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomisin
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Artificial Intelligence (AI) and Machine Learning (ML)
 - 💞️ I’m looking to collaborate on mobile development projects 
 - 📫 How to reach me: hanimashauntomisin@gmail.com
 
